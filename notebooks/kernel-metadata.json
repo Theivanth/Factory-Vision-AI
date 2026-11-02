@@ -1,0 +1,22 @@
+{
+  "id": "theivanth/factoryvisionai",
+  "id_no": 142223288,
+  "title": "FactoryVisionAI",
+  "code_file": "factoryvisionai.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "ravirajsinh45/real-life-industrial-dataset-of-casting-product",
+    "snehilsanyal/construction-site-safety-image-dataset-roboflow"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-private-byod/python@sha256:9a6bcfda6d03b2cd9aa347ee8c1bae62043328ed0f4afe9bda014e4f8bbf9435",
+  "machine_shape": "NvidiaTeslaT4"
+}

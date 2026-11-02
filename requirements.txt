@@ -1,0 +1,9 @@
+kaggle>=1.6
+numpy>=1.26
+opencv-python-headless>=4.10
+Pillow>=10
+PyYAML>=6
+streamlit>=1.40
+torch>=2.4
+torchvision>=0.19
+ultralytics>=8.3
