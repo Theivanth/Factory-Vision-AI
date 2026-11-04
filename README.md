@@ -120,11 +120,11 @@ not automatically grant rights to trained weights or this project's source code.
 
 ### Project source license
 
-No standalone software license is currently declared for FactoryVisionAI (there
-is no project-level `LICENSE` file). Do not assume the source code may be
-redistributed or reused under an open-source license. Third-party dependencies
-and pretrained weights carry their own terms; review those separately before
-distribution.
+FactoryVisionAI's project source and documentation are licensed under the
+[MIT License](./LICENSE). This license does not apply to datasets, trained
+checkpoints, pretrained weights, or third-party dependencies; those materials
+have separate terms that must be reviewed before use or distribution. See
+[CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines.
 
 ## Setup
 
