@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: >-
+  If you use FactoryVisionAI in your work, please cite it using the metadata
+  below.
+title: FactoryVisionAI
+abstract: >-
+  Educational factory-inspection prototype with PPE detection and casting
+  quality classification pipelines, a shared alert queue, and human review.
+authors:
+  - name: Theivanth
+repository-code: 'https://github.com/Theivanth/Factory-Vision-AI'
+license: MIT
+type: software
+keywords:
+  - computer vision
+  - industrial inspection
+  - personal protective equipment
+  - quality control

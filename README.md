@@ -91,6 +91,12 @@ respective terms.
 
 ## License and citations
 
+### Citing FactoryVisionAI
+
+Citation metadata for this software is provided in
+[CITATION.cff](./CITATION.cff), which GitHub uses to display a “Cite this
+repository” option. Dataset and research citations are listed below.
+
 ### Dataset licenses and attribution
 
 | Dataset | Attribution | License and reuse notes |
